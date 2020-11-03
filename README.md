@@ -1,6 +1,6 @@
-# TicTacToe and Connect4 using MinMax
+# TicTacToe and Connect4 using Minimax
 
-The famous TicTacToe and Connect4 games that can be played against an AI that plays using the MinMax algorithm strategy.
+The famous TicTacToe and Connect4 games that can be played against an AI that plays using the Minimax algorithm strategy.
 
 ## Running
 
