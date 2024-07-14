@@ -10,6 +10,7 @@ No additional packages are needed. Just run the command:
 python TicTacToe.py
 ```
 
+
 ## Usage
 Below is a sample output
 ```python
